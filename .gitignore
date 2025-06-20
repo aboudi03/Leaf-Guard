@@ -1,0 +1,73 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.packages
+.idea/
+*.iml
+
+# IDEs
+*.ipr
+*.iws
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+.packages
+.pub-cache/
+.pub/
+build/
+**/doc/api/
+**/ios/Flutter/.last_build_id
+
+# Symbolication and obfuscation
+app.*.symbols
+app.*.map.json
+
+# Android related
+/android/app/debug
+/android/app/profile
+/android/app/release
+android/local.properties
+
+# iOS related
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/.symlinks/
+ios/Pods/
+ios/.generated/
+ios/.dart_tool/
+
+# Linux
+linux/flutter/ephemeral/
+linux/CMakeFiles/
+linux/CMakeCache.txt
+
+# macOS
+macos/Flutter/ephemeral/
+macos/Pods/
+macos/.generated/
+
+# Windows
+windows/flutter/ephemeral/
+windows/CMakeFiles/
+windows/CMakeCache.txt
+
+# Web
+web/.dart_tool/
+
+# Fuchsia
+.fuchsia/
+
+# Coverage
+coverage/
+
+# VS Code settings (optional, comment if you want to track)
+.vscode/
